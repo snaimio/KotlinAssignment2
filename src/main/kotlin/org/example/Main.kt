@@ -8,7 +8,7 @@ import org.example.interfaces.Attackable
  * KOTLIN ASSIGNMENT 2
  * ============================================================
  *
- * Challenge A: Fantasy Warriors
+ * Challenge A: OOP Application: Fantasy Warriors
  *
  * OOP Concepts Demonstrated:
  * - Superclass: GameCharacter (in GameCharacter.kt)
