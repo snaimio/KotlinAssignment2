@@ -33,7 +33,7 @@ fun main() {
     println()
     println("=".repeat(35))
     println("🔮  FANTASY WARRIORS")
-    println("📚  Kotlin Assignment 2")
+    println("⚔️  Turn-Based Combat Engine")
     println("=".repeat(35))
     println()
 
@@ -145,7 +145,7 @@ fun main() {
     // ============================================================
     println()
     println("=".repeat(35))
-    println("  🏁 KotlinAssignment2 Complete! ")
+    println("  🏁 Fantasy Warriors Simulation Complete! ")
     println("=".repeat(35))
     println()
     println()

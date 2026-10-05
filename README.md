@@ -31,8 +31,8 @@
 ## 🚀 Setup & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/snaimio/KotlinAssignment2.git
-   cd KotlinAssignment2
+   git clone https://github.com/snaimio/fantasy-warriors-rpg-battle-engine.git
+   cd fantasy-warriors-rpg-battle-engine
    ```
 2. Build and run:
    ```bash
